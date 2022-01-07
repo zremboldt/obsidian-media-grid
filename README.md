@@ -1,5 +1,5 @@
 # Media Grid
-*An Obsidian snippet*
+*An [Obsidian](https://obsidian.md/) snippet*
 
 [Skip to installation instructions](#installation) ↓
 
@@ -43,7 +43,7 @@ If you already have the latest version of Contextual Typography:
 
 ## Feedback
 
-If you run into any issues or have suggestions feel free to submit an issue or send me a message [@zremboldt on Twitter](https://twitter.com/zremboldt). I'll respond as soon as I can. 👍
+If you run into any issues or have suggestions feel free to submit a GitHub issue or send me a message [@zremboldt on Twitter](https://twitter.com/zremboldt). I'll respond as soon as I can. 👍
 
 ## Support
 
