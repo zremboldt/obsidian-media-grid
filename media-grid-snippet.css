@@ -43,6 +43,7 @@
   margin: 0;
 }
 
+/* Remove breaks from the document flow */
 .markdown-preview-view.is-readable-line-width .markdown-preview-section div[data-is-embed] > p br {
   display: none;
 }
