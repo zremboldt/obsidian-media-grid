@@ -1,9 +1,9 @@
-## Media Grid
+# Media Grid
 *An Obsidian snippet*
 
-[Skip to installation instructions](#installation)
+[Skip to installation instructions](#installation) ↓
 
----
+## Introduction
 
 Media Grid gives you more control over the way your linked content is rendered in Obsidian. Add more meaning and visual interest to your documents by grouping sets of images, videos, or even audio tracks into grid layouts.
 
